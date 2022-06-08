@@ -190,5 +190,97 @@ export const answers = [
     {
         q: "Slānis, kurš veido vienu kopīgo transportēšanas sistēmu vairākiem datoru tīkliem, ir...",
         a: "tīkla slānis"
+    },
+    {
+        q: "Kurš ir datņu pārsūtīšanas protokols?",
+        a: "FTP"
+    },
+    {
+        q: "Kas ir aizsargāta tīmekļa vietne?",
+        a: "Tīmekļa vietne, kurai var piekļūt, ievadot lietotāja vārdu un paroli"
+    },
+    {
+        q: "Kas ir globālais tīmeklis?",
+        a: "Globāla hiperteksta sistēma, kas izmanto internetu kā informācijas transportēšanas mehānismu"
+    },
+    {
+        q: "Kas ir ugunsmūris (firewall)?",
+        a: "Drošības sistēma, kas aizsargā lokālo tīklu no nesankcionētas interneta lietotāju piekļuves"
+    },
+    {
+        q: "Kas ir ciparparaksts?",
+        a: "Dati, kas pievienoti datu blokam un kas ļauj datu saņēmējam pārliecināties par datu bloka integritāti un datu avota autentiskumu"
+    },
+    {
+        q: "Kurš no apgalvojumiem par elektroniskā pasta lietošanu ir patiess?",
+        a: "Saņemtu vēstuli var pārsūtīt citam adresātam"
+    },
+    {
+        q: "Datoru tīkls, kas ir izvietots ierobežotā teritorijā (ēkā, uzņēmumā, iestādē) un atrodas lietotāja pārziņā, ir...",
+        a: "lokālais datoru tīkls"
+    },
+    {
+        q: "Datoru tīkls, kas no lokālā tīkla atšķiras ar to, ka aptver ievērojami plašāku teritoriju un izmanto vispārējās lietošanas vai speciālus sakaru līdzekļus, kuri nodrošina iespēju uzturēt sakarus lielos attālumos, ir...",
+        a: "teritoriālais datoru tīkls (WAN)"
+    },
+    {
+        q: "Kurš apgalvojums ir patiess?",
+        a: "Lokālajā tīklā saslēgtie datori var izmantot kopīgu printeri"
+    },
+    {
+        q: "Kas ir internets?",
+        a: "Globālais datortīkls"
+    },
+    {
+        q: "Unikāla datora adrese tīkla slāņa līmenī ir...",
+        a: "IP adrese"
+    },
+    {
+        q: "Kas nosaka, kāda IP adreses daļa ir tīkla adreses un mezgla numurs?",
+        a: "Apakštīklu maska"
+    },
+    {
+        q: "Kādu interfeisu neizmanto tīkla adaptera ievietošanai datorā?",
+        a: "LPT"
+    },
+    {
+        q: "Kāds apzīmējums ir vītā pāra kabeļa savienotājam?",
+        a: "RJ-45"
+    },
+    {
+        q: "Kāds komponents nav vajadzīgs lokālā tīkla izveidošanai uz vīta pāra pamata?",
+        a: "Modems "
+    },
+    {
+        q: "Kādam kabelim tiek izmantots konektors RJ-45?",
+        a: "Kura nav datortīklu topoloģija?"
+    },
+    {
+        q: "Ko nosaka parametrs 100 apzīmējumā 100Base-TX?",
+        a: "Ātrumu"
+    },
+    {
+        q: "Kāds ir neekranētā vītā pāra kabeļa apzīmējums angļu valodā?",
+        a: "UTP"
+    },
+    {
+        q: "Kāds ir maksimālais datu pārraides ātrums, ko spēj nodrošināt 5. kategorijas UTP kabelis?",
+        a: "100 Mbit/s"
+    },
+    {
+        q: "Ko apraksta IEEE 802.3 standarts?",
+        a: "Ethernet tipa tīklus "
+    },
+    {
+        q: "Kādā datortīklu topoloģijā izmanto komutatoru?",
+        a: "Zvaigžņtīkla (star network)"
+    },
+    {
+        q: "Kāds datu pārraides vides vadības princips izmantots Ethernet tīklā?",
+        a: "Sacensību princips"
+    },
+    {
+        q: "Kurš no dotajiem lielumiem raksturo datu pārraides ātrumu?",
+        a: "512 Kbps"
     }
 ]
