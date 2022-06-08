@@ -236,8 +236,8 @@ export const answers = [
         a: "IP adrese"
     },
     {
-        q: "Kas nosaka, kāda IP adreses daļa ir tīkla adreses un mezgla numurs?",
-        a: "Apakštīklu maska"
+        q: "Kuri ir bezvadu tīkla standartu apzīmējumi?",
+        a: "802.11b, 802.11g, 802.11n, 802.11ac"
     },
     {
         q: "Kādu interfeisu neizmanto tīkla adaptera ievietošanai datorā?",
